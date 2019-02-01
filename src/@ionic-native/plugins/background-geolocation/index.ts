@@ -539,7 +539,7 @@ export declare enum BackgroundGeolocationIOSActivity {
 @Plugin({
   pluginName: 'BackgroundGeolocation',
   plugin: 'cordova-plugin-mauron85-background-geolocation@alpha',
-  pluginRef: 'BackgroundGeolocation',
+  pluginRef: 'backgroundGeolocation',
   repo: 'https://github.com/mauron85/cordova-plugin-background-geolocation',
   platforms: ['Android', 'iOS']
 })
